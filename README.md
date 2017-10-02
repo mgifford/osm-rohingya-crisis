@@ -7,7 +7,8 @@
 
 ## Check updated list of villages affected
 
-Here area  list of villages in the news that are identified in OSM. They need more the houses and roads mapped.
+Here area  list of villages in the news that are identified in OSM. They need more the houses and roads mapped. After you have set up an OSM accont you can easily see the houses there by clicking on the edit link and seeing the satelite view. 
+
  - [Myar Zin](https://www.openstreetmap.org/node/5095557656#map=14/21.0765/92.3306)
  - [Nwar Yon Taung](https://www.openstreetmap.org/#map=14/19.4674/93.9429)
  - [Taungpyoletwea](https://www.openstreetmap.org/#map=13/21.1995/92.1995)
