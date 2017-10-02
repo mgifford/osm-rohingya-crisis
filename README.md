@@ -1,5 +1,10 @@
 # Mapping the rohingya crisis with Open Street Map 
 
+## Links for related stories
+	- https://www.amnesty.org/en/press-releases/2017/09/myanmar-scorched-earth-campaign-fuels-ethnic-cleansing-of-rohingya-from-rakhine-state/
+	- http://www.unitar.org/unosat/node/44/2688?utm_source=unosat-unitar&utm_medium=rss&utm_campaign=maps
+	
+
 ## Check updated list of villages affected
 
 Villages I've heard in the news:
@@ -51,3 +56,7 @@ There is a task manager here which can help
 
 ### Completed villages
 - Inn Din, south Maungdaw 
+
+## Other efforts to map the displacement:
+	https://data.humdata.org/event/rohingya-displacement
+	https://data.humdata.org/group/mmr
